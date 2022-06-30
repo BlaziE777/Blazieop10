@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blazieop10
+- 👋 Hi, I’m @Hazy777
 - 👀 I’m interested in making multiple purpose bot
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on making bot
